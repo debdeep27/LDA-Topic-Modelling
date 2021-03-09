@@ -9,3 +9,5 @@ The content for the dataset has been gathered from various news sites, containin
 
 If you face any issue while importing the pyLDAvis package from gensim, run the below command in the anaconda terminal window (if you are running your jupyter notebook through anaconda):
 conda install -c conda-forge pyldavis
+
+The project has been done using python version: 3.8.5
